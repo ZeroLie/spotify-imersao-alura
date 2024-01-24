@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="270" alt="Spotify" src="https://github.com/ZeroLie/spotify-imersao-alura/assets/49824969/2fcb1d3b-3980-4db4-9b52-1872d4ff3076">
+  <img width="500" height="300" alt="Spotify" src="https://github.com/ZeroLie/spotify-imersao-alura/assets/49824969/2fcb1d3b-3980-4db4-9b52-1872d4ff3076">
 </p>
 
 <h1 align="center"> Spotify Imersão Alura </h1>
@@ -23,5 +23,8 @@ Cada aula, vou ~~tentar~~ atualizar assim que assistir e realizar a codação do
 - Aprender os fundamentos do CSS Flexbox;
 - Saber mais sobre posicionamentos no CSS;
 
+<p align="center">
+  <img width="1500" height="600" alt="Spotify" src="https://github.com/ZeroLie/spotify-imersao-alura/assets/49824969/258633ab-4d46-476f-87b2-432040fbf44b">
+</p>
 
 ## Desafio: Criar o Footer - Ainda não foi feito
