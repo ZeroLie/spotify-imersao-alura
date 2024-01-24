@@ -15,4 +15,13 @@ Cada aula, vou ~~tentar~~ atualizar assim que assistir e realizar a codação do
 - Revisão do HTML e CSS;
 - Comandos utilizados no VS Code;
 
-## Desafio: Criar a sidebar "Sua Biblioteca" - Ainda não foi feito
+--- 
+
+# Segunda Aula - Estilo Avançado e Posicionamento: Transformando Layouts
+
+- Criação completa do menu lateral da página;
+- Aprender os fundamentos do CSS Flexbox;
+- Saber mais sobre posicionamentos no CSS;
+
+
+## Desafio: Criar o Footer - Ainda não foi feito
